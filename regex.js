@@ -1,5 +1,7 @@
 //g - global flag
 //i - case insesitive
+//m - multiline
+
 // Match a special character (\.) -> backslash before dot for example
 const t = `The fat cat ran down the street
 It was searching for a mouse to eat`;
